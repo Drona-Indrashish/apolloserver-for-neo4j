@@ -24,7 +24,7 @@
   },
   "contributors": [],
   "scripts": {
-    "build": "npm run build",
+    "build": "npm run-script build",
     "start": "nodemon index.js",
     "dev": "",
     "test": ""
